@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CareerjetAPIClient">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/careerjet-api-client/CareerjetAPIClient.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
